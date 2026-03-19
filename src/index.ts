@@ -574,3 +574,4 @@ app.listen(PORT, () => {
   console.log(`  Transport:      Streamable HTTP`);
   console.log(`  Auth:           Bearer passthrough (client provides CCView API key)`);
 });
+// OAuth upgrade 2026-03-19T00:52:14Z
